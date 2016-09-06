@@ -124,56 +124,56 @@ select:enabled {
 }
 
 #brasil:after {
-    content: url('images/Brazil.jpg');
+    content: url('Brazil.jpg');
     padding-left: 5px;
 }
 
 #mexico:before {
-    content: url('images/Mexico.jpg');
+    content: url('Mexico.jpg');
     padding-left: 5px;
     padding-right: 5px;
 }
 
 #spain:after {
-    content: url('images/Spain.jpg');
+    content: url('Spain.jpg');
     padding-left: 5px;
 }
 
 #netherlands:before {
-    content: url('images/Netherlands.jpg');
+    content: url('Netherlands.jpg');
     padding-left: 5px;
     padding-right: 5px;
 }
 
 #italy:after {
-    content: url('images/Italy.jpg');
+    content: url('Italy.jpg');
     padding-left: 5px;
 }
 
 #england:before {
-    content: url('images/England.jpg');
+    content: url('England.jpg');
     padding-left: 5px;
     padding-right: 5px;
 }
 
 #argentina:after {
-    content: url('images/Argentina.jpg');
+    content: url('Argentina.jpg');
     padding-left: 5px;
 }
 
 #bosnia:before {
-    content: url('images/Bosnia.jpg');
+    content: url('Bosnia.jpg');
     padding-left: 5px;
     padding-right: 5px;
 }
 
 #germany:after {
-    content: url('images/Germany.jpg');
+    content: url('Germany.jpg');
     padding-left: 5px;
 }
 
 #portugal:before {
-    content: url('images/portugal.jpg');
+    content: url('Portugal.jpg');
     padding-left: 5px;
     padding-right: 5px;
 }
